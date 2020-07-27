@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! :wave:
+
+- I am a senior devops engineer at Western Governors University
+- I love python :snake:, nim, go and typescript
+- I hate java and javascript 
+
+I am currently learning AWS
 
 <!--
 **MisterBianco/MisterBianco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
