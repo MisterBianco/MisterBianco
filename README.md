@@ -1,8 +1,8 @@
 ### Hello! :wave:
 
 - I am a senior devops engineer at Western Governors University
-- I love python :snake:, nim, go and typescript
-- I hate java and javascript 
+- :heart: python :snake:, nim, go and typescript
+- :rage: java and javascript 
 
 I am currently learning AWS
 
