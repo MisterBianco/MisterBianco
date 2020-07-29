@@ -1,7 +1,7 @@
 ### Hello! :wave:
 
 - I am a senior devops engineer at Western Governors University
-- :heart: python :snake:, nim, go and typescript
+- :heart: python :snake:, nim :crown:, go and typescript
 - :rage: java and javascript 
 
 I am currently learning AWS
