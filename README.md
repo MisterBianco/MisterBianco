@@ -1,5 +1,7 @@
 ### Hello! :wave:
 
+[blog](https://misterbianco.github.io/)
+
 - I am a senior devops engineer at Western Governors University
 - :heart: python :snake:, nim :crown:, go and typescript
 - :rage: java and javascript 
