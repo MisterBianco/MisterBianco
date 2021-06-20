@@ -1,7 +1,7 @@
 <img src="Rainbow.gif" width="100%">
 
 <div align="center">
-  <img src="hero.png" alt="Profile Picture">
+  <img src="hero.png" height="150px" alt="Profile Picture">
 </div>
 
 <h3 align="center">Hello, I am Jarad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
@@ -27,14 +27,14 @@
 
 <hr>
 
-<h3>🌎 Bio</h3>
+<!-- <h3>🌎 Bio</h3> -->
 
 <h3>📚 Certifications</h3>
 
 <code><img height="25" src="gremlin-mascot.svg"></code>
 <a href="https://www.credential.net/6c68fdea-8564-4915-a3eb-22563436cf4a">Chaos Engineering Practitioner</a> <br>
-<code><img height="25" src="comptia.png"></code>
-<a href="https://www.credential.net/6c68fdea-8564-4915-a3eb-22563436cf4a">Microsoft Excel</a>
+<code><img height="50" src="comptia.png"></code>
+<a href="https://www.credential.net/6c68fdea-8564-4915-a3eb-22563436cf4a">Comptia Project+</a>
 
 <h3>🛠 Hardware and Software</h3>
 
