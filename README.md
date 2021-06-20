@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/-Go-orange?style=for-the-badge&logo=go3&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-AWS-yellow?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Docker-green?style=for-the-badge&logo=docker&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-CICD-blue?style=for-the-badge&logo=pytest&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-CICD-blue?style=for-the-badge&logo=testinglibrary&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Security-indigo?style=for-the-badge&logo=serverfault&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Devops-purple?style=for-the-badge&logo=devrant&logoColor=white&labelColor=black">
 </div>
