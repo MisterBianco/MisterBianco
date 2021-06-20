@@ -31,9 +31,9 @@
 
 <h3>📚 Certifications</h3>
 
-<code><img height="25" src="gremlin-mascot.svg"></code>
+<code><img height="25" width="50" src="gremlin-mascot.svg"></code>
 <a href="https://www.credential.net/6c68fdea-8564-4915-a3eb-22563436cf4a">Chaos Engineering Practitioner</a> <br>
-<code><img height="50" src="comptia.png"></code>
+<code><img height="50" width="50" src="comptia.png"></code>
 <a href="https://www.credential.net/6c68fdea-8564-4915-a3eb-22563436cf4a">Comptia Project+</a>
 
 <h3>🛠 Hardware and Software</h3>
