@@ -1,16 +1,72 @@
-<h1 align="center">Hi 👋, I'm Jarad</h1>
-<h3 align="center">An Acolyte of Devops, SRE and all things automation</h3>
+<img src="Rainbow.gif" width="100%">
 
-- 🌱 I’m currently learning **SRE, Cloud Architecture, and Kubernetes**
+<div align="center">
+  <img src="hero.png" alt="Profile Picture">
+</div>
 
-- 💬 Ask me about **Python, Devops, or Infrastructure as Code**
+<h3 align="center">Hello, I am Jarad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
 
-- 📫 How to reach me **jayrad.personal@protonmail.com**
+<div align="center">
+  I'm a <strong>Staff SRE</strong> and am ✨ passionate ✨ about process improvement. 
+  You can find me listening to podcasts, reading developer blogs and generally trying to find something fun to do. 
+  Currently mentoring several up and coming developers.
+</div>
 
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Bash-ef5faa?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python5&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Go-orange?style=for-the-badge&logo=go3&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-AWS-yellow?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Docker-green?style=for-the-badge&logo=docker&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-CICD-blue?style=for-the-badge&logo=pytest&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Security-indigo?style=for-the-badge&logo=serverfault&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Devops-purple?style=for-the-badge&logo=devrant&logoColor=white&labelColor=black">
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=misterbianco&show_icons=true&locale=en&layout=compact" alt="misterbianco" /></p>
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=misterbianco&show_icons=true&locale=en" alt="misterbianco" /></p>
+<h3>🌎 Bio</h3>
+
+<h3>📚 Certifications</h3>
+
+<code><img height="25" src="gremlin-mascot.svg"></code>
+<a href="https://www.credential.net/6c68fdea-8564-4915-a3eb-22563436cf4a">Chaos Engineering Practitioner</a> <br>
+<code><img height="25" src="comptia.png"></code>
+<a href="https://www.credential.net/6c68fdea-8564-4915-a3eb-22563436cf4a">Microsoft Excel</a>
+
+<h3>🛠 Hardware and Software</h3>
+
+```
+> sysfetch
+
+user@D4RT3R
+---------------
+💾 OS: Manjaro Linux x86_64
+💻 Host: D4RT3R
+🌽 Kernel: 5.12.10-1-MANJARO
+📦 Packages: 1184 (pacman)
+💽 Shell: zsh 5.8
+🖥️ DE: GNOME 40.2
+```
+
+<h3>📈 Interesting numbers</h3>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisterBianco&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
+</div>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=MisterBianco&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
+</div>
+
+<div>
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=MisterBianco&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF">
+</div>
+
+<div>
+  <img src="Gradients.png" alt="Gradients" width="100%">
+</div>
+
+<img src="Rainbow.gif" width="100%">
